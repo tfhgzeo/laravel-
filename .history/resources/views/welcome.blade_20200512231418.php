@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello, {{ $name }}.
+                Hello, {{ $name }}.
+
                 </div>
 
                 <div class="links">

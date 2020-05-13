@@ -21,6 +21,6 @@ Route::get('/blade', function () {
     return view('child');
 });
 
-Route::get('/greeting', function () {
-    return view('welcome', ['name' => 'Gustavo']);
+Route::get('greeting', function () {
+    return view('welcome', ['name' => 'Samantha']);
 });
