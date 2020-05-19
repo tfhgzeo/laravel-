@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello, {{ $nome }}.
+                The current UNIX timestamp is {{ time() }}.
                 </div>
 
                 <div class="links">
